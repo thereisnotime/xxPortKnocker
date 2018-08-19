@@ -1,11 +1,11 @@
 #!/bin/bash
-#XXPORTKNOCK
+#XXPORTKNOCKER
 ##################
-# xxPortKnock
+# xxPortKnocker
 # v1.0
 ##################
 function showHelp() {
-	echo "Usage: bash xxPortKnock.sh TCP/UDP IP PORT1 PORT2..."
+	echo "Usage: bash xxPortKnocker.sh TCP/UDP IP PORT1 PORT2..."
 	echo "You can also use t and u for short."
 	exit 1
 }
