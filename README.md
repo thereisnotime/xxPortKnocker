@@ -8,7 +8,7 @@ It is a standalone tool implemented as different scripts. Just download the one 
 
 Easy oneliner for download of Bash version:
 ```sh
-wget https://raw.githubusercontent.com/thereisnotime/xxPortKnocker/master/xxPortKnock.sh && chmod +x /tmp/xxAliasToolbox.sh && bash xxPortKnock.sh
+wget https://raw.githubusercontent.com/thereisnotime/xxPortKnocker/master/xxPortKnock.sh && chmod +x `pwd`/xxPortKnock.sh && bash xxPortKnock.sh
 ``` 
 
 ### Dependencies ###
